@@ -1,0 +1,3 @@
+GameCube emulator
+
+Only few cpu instructions emulated...
